@@ -1,0 +1,167 @@
+/* *{ */
+    /* border: 1px solid red; */
+/* } */
+
+body{
+    margin: auto;
+
+}
+
+.amazon-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.img{
+    display: flex;
+    justify-content: center;
+}
+
+.sign-in-container{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding: 26px;
+    padding-top: 0px;
+    width: 348px;
+    height: 278px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    
+}
+
+.outterbox{
+    display: flex;
+    justify-content: center;
+    
+}
+
+input{
+    height: 296px;
+    padding: 3px 7px;
+}
+
+.pass{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 40px;
+}
+
+a{
+    text-decoration: none;
+    padding-top: 10px;
+}
+
+.help{
+    height: 30px;
+    
+}
+
+.new{
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+
+.button2{
+    display: flex;
+    justify-content: center;
+}
+
+
+footer{
+    text-align: center;
+    padding: 40px;
+}
+
+.links{
+    display: flex;
+    justify-content:space-evenly;
+    margin-left: 35%;
+    margin-right: 35%;
+}
+
+#button1{
+    background: linear-gradient(#F7DEA1, #F0C14D);
+    border: 0.5px solid #aaaaaa;
+    border-radius: 3px;
+    font-size: 16px;
+    padding: 6px;
+    width: 100%;}
+
+
+.button1{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.button1:hover{
+    background-color: rgb(rgb(161, 127, 48));
+}
+
+#button2{
+    
+    font-size: 16px;
+    padding: 6px;
+    width: 380px;}
+
+input{
+    box-shadow: 0px 0px 2px 0px rgba(0, 0, 0, 0.5)
+}
+
+.sign-in-lable{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+}
+
+.text{
+    font-family: Arial, Helvetica, sans-serif;
+    padding-bottom: 10px;
+    
+    
+}
+
+.img {
+    display: flex;
+    justify-content: center;
+    height: 200px;
+}
+
+p{
+    
+    text-align: center;
+    border-bottom: 1px solid rgba(88, 87, 87, 0.658);
+    line-height: .2em;
+    margin: 10px 0 20px;
+    width: 380px;
+}
+
+p span {
+    background: #fff;
+    padding: 0 10px;
+    height: 100%;
+}
+
+.help{
+    padding-top: 15px;
+    padding-left: 15px;
+}
+
+label{
+    align-items: center;
+}
+
+.new-to-amazon{
+    display: flex;
+    justify-content: center;
+}
+
+#line{
+    width: 100%;
+    margin-top: 60px;
+}
+
